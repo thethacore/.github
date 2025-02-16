@@ -1,4 +1,4 @@
-# ThethaCore – Configuration, Simplified.
+# ϑ ThethaCore – Configuration, Simplified.
 
 🚀 **ThethaCore (.thtc)** is a modern, structured, and efficient configuration format designed to be **developer-friendly, human-readable, and machine-optimized**.
 
