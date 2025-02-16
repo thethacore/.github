@@ -1,0 +1,2 @@
+# thethacore
+ThethaCore – Configuration, Simplified.
