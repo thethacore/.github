@@ -1,2 +1,2 @@
-# thethacore
+# .github
 ThethaCore – Configuration, Simplified.
